@@ -1,0 +1,28 @@
+body {
+    background-color: #141414;
+    color: #ffffff;
+}
+.container-custom {
+    max-width: 400px;
+    margin-top: 20px;
+}
+.card-custom {
+    background-color: #000000;
+    border: 1px solid #FFC107;
+    padding: 10px;
+}
+.btn-custom {
+    background-color: #A2FF02;
+    color: #000000;
+    border: none;
+    width: 100%;
+}
+.btn-custom:hover {
+    background-color: #8CCE02;
+}
+
+.container-custom-logo img {
+    width: 100%;
+    height: 40vh; /* 30% de la altura de la ventana */
+     
+}
